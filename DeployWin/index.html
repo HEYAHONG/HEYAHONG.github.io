@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.9.1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>DeployWin: 说明</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">DeployWin
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- 制作者 Doxygen 1.9.1 -->
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&amp;dn=gpl-2.0.txt GPL-v2 */
+$(function() {
+  initMenu('',false,false,'search.php','搜索');
+});
+/* @license-end */</script>
+<div id="main-nav"></div>
+</div><!-- top -->
+<div class="PageDoc"><div class="header">
+  <div class="headertitle">
+<div class="title">说明 </div>  </div>
+</div><!--header-->
+<div class="contents">
+<div class="textblock"><p><a class="anchor" id="md_mainpage"></a> 在使用<a href="https://www.msys2.org/">MSYS2</a>（包括mingw）与<a href="http://cygwin.org/">Cygwin</a> 上开发Windows程序，经常遇到需要打包exe所需dll问题（如动态加载的dll）。</p>
+<p>本库主要实现自动将依赖的dll拷贝到目标exe目录:</p>
+<ul>
+<li>通过C++静态全局变量的构造函数启动拷贝线程。</li>
+<li>通过环境变量触发dll拷贝功能。</li>
+</ul>
+<p>可不修改原有C++代码，直接将本库链接进工程即可实现dll拷贝功能。</p>
+<p>支持的环境变量：</p>
+<table class="markdownTable">
+<tr class="markdownTableHead">
+<th class="markdownTableHeadCenter">环境变量名称   </th><th class="markdownTableHeadCenter">说明    </th></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyCenter">DEPLOYWIN   </td><td class="markdownTableBodyCenter">为1时启动dll拷贝，为其它值跳过dll拷贝    </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyCenter">DEPLOYWIN_AUTOEXIT   </td><td class="markdownTableBodyCenter">当为大于0的数字时，表示自动退出的秒数。正常运行时不可设置此环境变量。通常用于CMake脚本的安装操作。   </td></tr>
+</table>
+</div></div><!-- PageDoc -->
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+制作者&#160;<a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1
+</small></address>
+</body>
+</html>

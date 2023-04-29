@@ -1,0 +1,105 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="说明"><param name="Local" value="index.html"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="类"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="类列表"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="_LDR_DLL_LOADED_NOTIFICATION_DATA"><param name="Local" value="struct___l_d_r___d_l_l___l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="BaseDllName"><param name="Local" value="struct___l_d_r___d_l_l___l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#a0fbe45b05139239b545687220a53025b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DllBase"><param name="Local" value="struct___l_d_r___d_l_l___l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#a6c515e0b98decc0afec1e409c569c9c6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Flags"><param name="Local" value="struct___l_d_r___d_l_l___l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#a5f09b4fa79136446c28d2adaf3d713eb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="FullDllName"><param name="Local" value="struct___l_d_r___d_l_l___l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#a3a4dcf617cd7fad5b2dd4487e0261479"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SizeOfImage"><param name="Local" value="struct___l_d_r___d_l_l___l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#a516f0c5617d522fc7da2403325755d49"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="_LDR_DLL_NOTIFICATION_DATA"><param name="Local" value="union___l_d_r___d_l_l___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Loaded"><param name="Local" value="union___l_d_r___d_l_l___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#a858013f3d2e9859f93685212963991c4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Unloaded"><param name="Local" value="union___l_d_r___d_l_l___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#aed4bc303eb14162278e3e84df61756c0"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="_LDR_DLL_UNLOADED_NOTIFICATION_DATA"><param name="Local" value="struct___l_d_r___d_l_l___u_n_l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="BaseDllName"><param name="Local" value="struct___l_d_r___d_l_l___u_n_l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#a5898ffd485c8f4b09808129faf74c883"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DllBase"><param name="Local" value="struct___l_d_r___d_l_l___u_n_l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#a5d11e8b702705bc4720431bd4b20392f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Flags"><param name="Local" value="struct___l_d_r___d_l_l___u_n_l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#aecc471dca687d6b575be3f4c9ab29ec9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="FullDllName"><param name="Local" value="struct___l_d_r___d_l_l___u_n_l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#a9b66f438ab596f02e2b0d3eb8e82c0cd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SizeOfImage"><param name="Local" value="struct___l_d_r___d_l_l___u_n_l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#ab358cb3c73b7b8c777b66fc01ee36eb8"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="类索引"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="类成员"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="全部"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="变量"><param name="Local" value="functions_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="文件"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="文件列表"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="DeployWin.cpp"><param name="Local" value="_deploy_win_8cpp.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_LDR_DLL_LOADED_NOTIFICATION_DATA"><param name="Local" value="struct___l_d_r___d_l_l___l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="BaseDllName"><param name="Local" value="struct___l_d_r___d_l_l___l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#a0fbe45b05139239b545687220a53025b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DllBase"><param name="Local" value="struct___l_d_r___d_l_l___l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#a6c515e0b98decc0afec1e409c569c9c6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Flags"><param name="Local" value="struct___l_d_r___d_l_l___l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#a5f09b4fa79136446c28d2adaf3d713eb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="FullDllName"><param name="Local" value="struct___l_d_r___d_l_l___l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#a3a4dcf617cd7fad5b2dd4487e0261479"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SizeOfImage"><param name="Local" value="struct___l_d_r___d_l_l___l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#a516f0c5617d522fc7da2403325755d49"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_LDR_DLL_UNLOADED_NOTIFICATION_DATA"><param name="Local" value="struct___l_d_r___d_l_l___u_n_l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="BaseDllName"><param name="Local" value="struct___l_d_r___d_l_l___u_n_l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#a5898ffd485c8f4b09808129faf74c883"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DllBase"><param name="Local" value="struct___l_d_r___d_l_l___u_n_l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#a5d11e8b702705bc4720431bd4b20392f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Flags"><param name="Local" value="struct___l_d_r___d_l_l___u_n_l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#aecc471dca687d6b575be3f4c9ab29ec9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="FullDllName"><param name="Local" value="struct___l_d_r___d_l_l___u_n_l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#a9b66f438ab596f02e2b0d3eb8e82c0cd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SizeOfImage"><param name="Local" value="struct___l_d_r___d_l_l___u_n_l_o_a_d_e_d___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#ab358cb3c73b7b8c777b66fc01ee36eb8"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_LDR_DLL_NOTIFICATION_DATA"><param name="Local" value="union___l_d_r___d_l_l___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Loaded"><param name="Local" value="union___l_d_r___d_l_l___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#a858013f3d2e9859f93685212963991c4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Unloaded"><param name="Local" value="union___l_d_r___d_l_l___n_o_t_i_f_i_c_a_t_i_o_n___d_a_t_a.html#aed4bc303eb14162278e3e84df61756c0"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LDR_DLL_NOTIFICATION_REASON_LOADED"><param name="Local" value="_deploy_win_8cpp.html#a45a8f6b058730f48d5facaf18e729ccd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LDR_DLL_NOTIFICATION_REASON_UNLOADED"><param name="Local" value="_deploy_win_8cpp.html#a146f87243caa8220fcd315f2b8717ab9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="STATUS_SUCCESS"><param name="Local" value="_deploy_win_8cpp.html#ae56fdb340b23940f7a64ed2e37c1774a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LDR_DLL_LOADED_NOTIFICATION_DATA"><param name="Local" value="_deploy_win_8cpp.html#a633f32e7199889530df9bd98d131fcb9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LDR_DLL_NOTIFICATION_DATA"><param name="Local" value="_deploy_win_8cpp.html#a8ae2659cdc4982ac61e99c2adf669180"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LDR_DLL_UNLOADED_NOTIFICATION_DATA"><param name="Local" value="_deploy_win_8cpp.html#adae315fe90ea975f9b4a184f8ed8d89f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LdrDllNotification"><param name="Local" value="_deploy_win_8cpp.html#a96ec17451d0235a9f429c5179276ad4b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LdrRegisterDllNotification_t"><param name="Local" value="_deploy_win_8cpp.html#af54704d2ae3facb5eb708b9687d56d8e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LdrUnregisterDllNotification_t"><param name="Local" value="_deploy_win_8cpp.html#a9c93fcb27269f4630e8eea4dcb295326"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PCLDR_DLL_NOTIFICATION_DATA"><param name="Local" value="_deploy_win_8cpp.html#add057a896381af49e9aa4c2b831b1cb4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PCUNICODE_STRING"><param name="Local" value="_deploy_win_8cpp.html#aff7b2ecda3152dcea4dc9b7535b8c114"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PLDR_DLL_LOADED_NOTIFICATION_DATA"><param name="Local" value="_deploy_win_8cpp.html#a0404c3cd2e9d0efea85bbfdd05d9bd28"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PLDR_DLL_NOTIFICATION_DATA"><param name="Local" value="_deploy_win_8cpp.html#aca40711319866c48dc9d0b2f5b986948"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PLDR_DLL_NOTIFICATION_FUNCTION"><param name="Local" value="_deploy_win_8cpp.html#a363b1269189c33b9b27e186d7e0c943d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PLDR_DLL_UNLOADED_NOTIFICATION_DATA"><param name="Local" value="_deploy_win_8cpp.html#a8c1cd7f19e84a259862f56fca082ed64"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DeployWinIsRunning"><param name="Local" value="_deploy_win_8cpp.html#a6102446b0724dd391d78f0eb294c1a10"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="StartDeployWin"><param name="Local" value="_deploy_win_8cpp.html#a21362eea7bf00b8d938842e67117c382"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="dummy/DeployWin.cpp"><param name="Local" value="dummy_2_deploy_win_8cpp.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DeployWinIsRunning"><param name="Local" value="dummy_2_deploy_win_8cpp.html#a6102446b0724dd391d78f0eb294c1a10"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="DeployWin.h"><param name="Local" value="_deploy_win_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DeployWinIsRunning"><param name="Local" value="_deploy_win_8h.html#a6102446b0724dd391d78f0eb294c1a10"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="文件成员"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="全部"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="函数"><param name="Local" value="globals_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="类型定义"><param name="Local" value="globals_type.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="宏定义"><param name="Local" value="globals_defs.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>
