@@ -14,7 +14,7 @@
 - [github.com](https://github.com/HEYAHONG)
 - [gitee.com](https://gitee.com/HEYAHONG)
 
-# 博客及相关资料
+## 博客及相关资料
 
 - [mediawiki](http://mediawiki.hyhsystem.cn/)
 
