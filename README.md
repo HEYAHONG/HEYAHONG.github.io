@@ -4,8 +4,8 @@
 
 # 文档列表
 
-- [SimpleModbusRTUPacket](https://heyahong.github.io/SimpleModbusRTUPacket/)
-- [DeployWin](https://heyahong.github.io/DeployWin/)
+- <a href="SimpleModbusRTUPacket/" target="_blank">SimpleModbusRTUPacket </a> 
+- <a href="DeployWin/" target="_blank">DeployWin</a>
 
 # 相关链接
 
