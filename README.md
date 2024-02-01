@@ -11,9 +11,13 @@
 
 ## SimpleModbusRTUPacket
 
+简易Modbus RTU解析。
+
 - <a href="SimpleModbusRTUPacket/" target="_blank">SimpleModbusRTUPacket </a> 
 
 ## DeployWin
+
+辅助在使用[MSYS2](https://www.msys2.org/)（包括mingw）与[Cygwin](http://cygwin.org/) 上开发Windows程序
 
 - <a href="DeployWin/" target="_blank">DeployWin</a>
 
@@ -23,10 +27,21 @@
 
 ## riscv-isa-manual
 
+RISC-V指令集手册。
+
 仓库链接:[https://github.com/riscv/riscv-isa-manual.git](https://github.com/riscv/riscv-isa-manual.git)
 
 - <a href="riscv-isa-manual/unpriv-isa-asciidoc.html" target="_blank">unpriv-isa-asciidoc.html </a> 
 - <a href="riscv-isa-manual/priv-isa-asciidoc.html" target="_blank">priv-isa-asciidoc.html </a> 
+
+## riscv-opcodes
+
+RISC-V 操作码。采用[CTex](https://ctex.org/)将生成的tex文件转换为pdf文件
+
+仓库链接:[https://github.com/riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes)
+
+- <a href="riscv-opcodes/instr-table.pdf" target="_blank">instr-table.pdf </a> 
+- <a href="riscv-opcodes/priv-instr-table.pdf" target="_blank">priv-instr-table.pdf </a> 
 
 # 相关链接
 
