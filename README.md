@@ -36,9 +36,29 @@ RISC-V指令集手册。
 
 ## riscv-opcodes
 
-RISC-V 操作码。采用[CTex](https://ctex.org/)将生成的tex文件转换为pdf文件
+RISC-V 操作码。
 
 仓库链接:[https://github.com/riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes)
+
+其中生成的表格可采用[CTex](https://ctex.org/)将tex文件转换为pdf文件。
+
+由于tex文件存放的是表格，需要在tex文件中添加头和尾变成文档才可转换为pdf。
+
+添加的latex头：
+
+```latex
+\documentclass{article}
+\usepackage[left=1in, right=1in, top=1in, bottom=1in]{geometry}
+\begin{document}
+
+\centering
+```
+
+添加的latex尾：
+
+```latex
+\end{document}
+```
 
 - <a href="riscv-opcodes/instr-table.pdf" target="_blank">instr-table.pdf </a> 
 - <a href="riscv-opcodes/priv-instr-table.pdf" target="_blank">priv-instr-table.pdf </a> 
