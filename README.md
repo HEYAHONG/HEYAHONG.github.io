@@ -31,8 +31,8 @@ RISC-V指令集手册。
 
 仓库链接:[https://github.com/riscv/riscv-isa-manual.git](https://github.com/riscv/riscv-isa-manual.git)
 
-- <a href="riscv-isa-manual/unpriv-isa-asciidoc.html" target="_blank">unpriv-isa-asciidoc.html </a> 
-- <a href="riscv-isa-manual/priv-isa-asciidoc.html" target="_blank">priv-isa-asciidoc.html </a> 
+- <a href="riscv-isa-manual/riscv-unprivileged.html" target="_blank">riscv-unprivileged.html</a> 
+- <a href="riscv-isa-manual/riscv-privileged.html" target="_blank">riscv-privileged.html</a> 
 
 ## riscv-opcodes
 
